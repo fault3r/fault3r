@@ -1,3 +1,4 @@
+## equipment
 - 🔍 C# : DotNet
 - ⚒️ VSCode
 - ☄️ Ubuntu
