@@ -3,5 +3,6 @@
 - ⚒️ Visual Studio Code
 - ☄️ Ubuntu Linux
 - 🛖 Github
-- ∙ Backend ∙ SQL ∙ EFCore ∙ DesignPatterns ∙ MVC
+- ✦ Backend ✦ DesignPatterns ✦ MVC
+- ✦ MSSQL ✦ EFCore
 - 🌈 CSS
