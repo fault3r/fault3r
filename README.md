@@ -1,5 +1,5 @@
-💻 software developer
-🔍 C# : dotnet
-🪄 vscode
-🐧 ubuntu
-☄️ github ∙ backend ∙ SQL ∙ EFCore ∙ DesignPatterns ∙ MVC︱✦CSS
+- 💻 software developer
+- 🔍 C# : dotnet
+- 🪄 vscode
+- 🐧 ubuntu
+- ☄️ github ∙ backend ∙ SQL ∙ EFCore ∙ DesignPatterns ∙ MVC︱✦CSS
