@@ -1,6 +1,7 @@
-## equipment
+## Equipment
 - 🔍 C# : DotNet
-- ⚒️ VSCode
-- ☄️ Ubuntu
-- Github ∙ Backend ∙ SQL ∙ EFCore ∙ DesignPatterns ∙ MVC
-- ✦CSS
+- ⚒️ Visual Studio Code
+- ☄️ Ubuntu Linux
+- 🛖 Github
+- ∙ Backend ∙ SQL ∙ EFCore ∙ DesignPatterns ∙ MVC
+- 🌈 CSS
