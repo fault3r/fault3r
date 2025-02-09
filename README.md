@@ -1,4 +1,5 @@
 - 🔍 C# : .NET
 - ⚒️ VSCode
-- 🐧 Ubuntu
-- ☄️ Github ∙ Backend ∙ SQL ∙ EFCore ∙ DesignPatterns ∙ MVC︱✦CSS
+- ☄️ Ubuntu
+- Github ∙ Backend ∙ SQL ∙ EFCore ∙ DesignPatterns ∙ MVC
+- ✦CSS
