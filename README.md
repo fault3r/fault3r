@@ -1,4 +1,3 @@
-- 💻 software developer
 - 🔍 C# : dotnet
 - 🪄 vscode
 - 🐧 ubuntu
