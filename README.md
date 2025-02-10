@@ -1,5 +1,5 @@
 ## Equipment
-- 🔍 C# : DotNet
+- 🔍 C# ✦ DotNet
 - ⚒️ Visual Studio Code
 - ☄️ Ubuntu Linux
 - 🛖 Github
