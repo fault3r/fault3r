@@ -2,7 +2,7 @@
 - 💻 C# ✦ DotNet
 - ⚔️ Visual Studio Code
 - ☄️ Ubuntu Linux
-- 🛖 Github
+- ✴️ Github
 - 🔍 Backend ✦ DesignPatterns ✦ MVC
 - ✨ MSSQL ✦ EFCore
 - 🌈 CSS
