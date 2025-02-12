@@ -5,5 +5,5 @@
 - ☄️ Github
 - 🔍 Backend ✦ DesignPatterns
 - 🔍 EFCore ✦ MSSQL
-- 🟄 Clean ✦ MVC ✦ CSS🌈
+- 🟄 Clean 🟄 MVC 🟄 CSS🌈
   
