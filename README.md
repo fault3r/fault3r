@@ -4,6 +4,6 @@
 - 🪐 Ubuntu Linux
 - ☄️ Github
 - 🔍 Backend ✦ DesignPatterns
-- ✨ EFCore ✦ MSSQL
-- ⚡ CleanArchitecture ✦ MVC
+- 🔍 EFCore ✦ MSSQL
+- 🔍 CleanArchitecture ✦ MVC
 - 🌈 CSS
