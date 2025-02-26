@@ -6,5 +6,5 @@
 - 🔍 Backend ✦ DesignPatterns
 - 🔍 EFCore ✦ MSSQL
 - 🔍 xUnit
-- ✦ Clean ✦ MVC ✦ CSS🌈
+- 🔍 Clean ✦ MVC ✦ CSS🌈
   
