@@ -5,6 +5,6 @@
 - ☄️ Github
 - 🔍 Backend ✦ DesignPatterns
 - 🔍 EFCore ✦ MSSQL
-- 🔍 xUnitTests
+- 🔍 xUnit
 - ✦ Clean ✦ MVC ✦ CSS🌈
   
