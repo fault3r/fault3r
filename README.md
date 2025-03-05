@@ -1,4 +1,3 @@
-## Software Developer
 - 💻 C# ✦ DotNet
 - ⚔️ Visual Studio Code
 - 🪐 Ubuntu Linux
