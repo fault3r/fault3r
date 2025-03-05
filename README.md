@@ -1,4 +1,4 @@
-## Equipment
+## Software Developer
 - 💻 C# ✦ DotNet
 - ⚔️ Visual Studio Code
 - 🪐 Ubuntu Linux
@@ -8,4 +8,4 @@
 - 🔍 xUnit
 - 🔍 Clean ✦ MVC ✦ CSS🌈
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true" />
