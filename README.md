@@ -1,4 +1,4 @@
-- 💻 C# ✦ DotNet
+- 💻 .NET ✦ C#
 - ⚔️ Visual Studio Code
 - 🔍 Architectures ✦ DesignPatterns ✦ Backend
 - 🔍 Databases
