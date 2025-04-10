@@ -1,9 +1,7 @@
 - 💻 C# ✦ DotNet
 - ⚔️ Visual Studio Code
-- 🪐 Ubuntu Linux
-- ☄️ Github
-- 🔍 Backend ✦ DesignPatterns
-- 🔍 EFCore ✦ MSSQL
+- 🔍 Architectures ✦ DesignPatterns ✦ Backend
+- 🔍 Databases
 - 🌈 CSS
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,dotnet,cs,visualstudio&perline=4)](https://skillicons.dev)
