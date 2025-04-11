@@ -2,15 +2,15 @@
 💻 **.NET ✦ C#**<br />
 ⚔️ **Visual Studio Code**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,bash&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,bash&theme=dark)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,dotnet,cs,visualstudio&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,dotnet,cs,visualstudio&theme=dark)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=dark)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,docker,postman,api,blazor&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,docker,postman,api,blazor&theme=dark)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&theme=dark)
 
 | **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**CSS** | <img src="https://github.com/fault3r/BrainCells/blob/main/src/BrainCells.Presentation/wwwroot/resource/search.png?raw=true" alt="explore" width="50" height="50"> |
 |:---:|:---:|
