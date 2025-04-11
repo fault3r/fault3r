@@ -8,11 +8,11 @@
 <br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=light)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,docker,postman&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,docker,postman,api&theme=light)
 <br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&theme=light)
 
-| <img src="https://github.com/fault3r/BrainCells/blob/main/src/BrainCells.Presentation/wwwroot/resource/search.png?raw=true" alt="explore" width="50" height="50"> | **Architectures✦DesignPatterns**<br>**Backend**<br>**Databases**<br>**CSS** |
+| **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**CSS** | <img src="https://github.com/fault3r/BrainCells/blob/main/src/BrainCells.Presentation/wwwroot/resource/search.png?raw=true" alt="explore" width="50" height="50"> |
 |:---:|:---:|
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript,html" />
