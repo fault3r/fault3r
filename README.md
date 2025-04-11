@@ -1,4 +1,4 @@
-#Coding Zones
+## Coding Zones
 - 💻 .NET ✦ C#
 - ⚔️ Visual Studio Code
 - 🔍 Architectures ✦ DesignPatterns ✦ Backend
