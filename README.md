@@ -18,7 +18,7 @@
 
 ![myDESK](https://github.com/user-attachments/assets/7525aed6-08b3-46db-95b8-7b817df463c4)
 
-<p align="right">
+
   [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=light)(https://www.instagram.com/hamed.damaavandi/)]
   [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light)(mailto://hamed.damaavandi@gmail.com)]
-</p>
+
