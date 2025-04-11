@@ -1,6 +1,6 @@
 ## Coding Zones
-- 💻 .NET ✦ C#
-- ⚔️ Visual Studio Code
+- 💻 **.NET ✦ C#**
+- ⚔️ **Visual Studio Code**
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,bash&theme=light)
 <br />
