@@ -1,9 +1,6 @@
 ## Coding Zones
 - 💻 .NET ✦ C#
 - ⚔️ Visual Studio Code
-- 🔍 Architectures ✦ DesignPatterns ✦ Backend
-- 🔍 Databases
-- 🌈 CSS
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,bash&theme=light)
 <br />
@@ -14,6 +11,11 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,docker,postman&theme=light)
 <br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&theme=light)
+
+<img src="https://github.com/fault3r/BrainCells/blob/main/src/BrainCells.Presentation/wwwroot/resource/search.png?raw=true" alt="explore" width="50" height="50"> Architectures ✦ DesignPatterns
+Backend
+Databases
+CSS
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript,html" />
 
