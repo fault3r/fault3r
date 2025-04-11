@@ -4,15 +4,15 @@
 - 🔍 Databases
 - 🌈 CSS
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash&perline=3)](https://github.com/torvalds)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,bash&theme=light)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=vscode,dotnet,cs,visualstudio&perline=4)](https://dotnet.microsoft.com/en-us/)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,dotnet,cs,visualstudio&theme=light)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,github&perline=2)](https://github.com/)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=light)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=docker,postman&perline=2)](https://www.docker.com)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,docker,postman&theme=light)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=2)](https://www.w3.org)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&theme=light)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript,html" />
 
