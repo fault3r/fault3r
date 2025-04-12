@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## Coding Zones
 💻 **.NET ✦ C#**<br />
 ⚔️ **Visual Studio Code**
@@ -14,12 +12,14 @@
 <br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&theme=dark)
 
-| **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**CSS** | <img src="https://github.com/fault3r/BrainCells/blob/main/src/BrainCells.Presentation/wwwroot/resource/search.png?raw=true" alt="explore" width="50" height="50"> |
+| **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**CSS** | <img src="https://github.com/fault3r/fault3r/blob/main/explore.png?raw=true" alt="explore" width="50" height="50"> |
 |:---:|:---:|
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript,html" />
 
-![myDESK](https://github.com/user-attachments/assets/7525aed6-08b3-46db-95b8-7b817df463c4)
+<p align="center">
+  <img src="https://github.com/fault3r/fault3r/blob/main/vDesktop.jpg?raw=true" alt="MyDesktop" style="border-radius: 15px;" />
+</p>
 
 <p align="right">
   <a href="mailto:hamed.damaavandi@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" /></a>
