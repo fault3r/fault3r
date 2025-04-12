@@ -12,13 +12,13 @@
 <br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&theme=dark)
 
-| **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**CSS** | <img src="https://github.com/fault3r/fault3r/blob/main/explore.png?raw=true" alt="explore" width="50" height="50"> |
+| **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**CSS** | <img src="https://github.com/fault3r/fault3r/blob/main/explore.png?raw=true" alt="explore" width="70" height="70"> |
 |:---:|:---:|
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript,html" />
 
 <p align="center">
-  <img src="https://github.com/fault3r/fault3r/blob/main/vDesktop.jpg?raw=true" alt="MyDesktop" style="border-radius: 15px;" />
+  <img src="https://github.com/fault3r/fault3r/blob/main/vDesktop.png?raw=true" alt="MyDesktop" style="border-radius: 15px;" />
 </p>
 
 <p align="right">
