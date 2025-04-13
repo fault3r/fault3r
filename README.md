@@ -15,11 +15,11 @@
 | **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**CSS** | <img src="https://github.com/fault3r/fault3r/blob/main/explore.png?raw=true" alt="explore" width="70" height="70"> |
 |:---:|:---:|
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript,html" />
-
-<p align="right">
+<p align="left">
   <img src="https://github.com/fault3r/fault3r/blob/main/vDesktop.png?raw=true" alt="MyDesktop" width="500" height="350" />
 </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript,html" />
 
 <p align="right">
   <a href="mailto:hamed.damaavandi@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" /></a>
