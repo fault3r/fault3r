@@ -16,7 +16,7 @@
 |:---:|:---:|
 
 <p align="left">
-  <img src="https://github.com/fault3r/fault3r/blob/main/vDesktop.png?raw=true" alt="MyDesktop" width="500" height="350" />
+  <img src="https://github.com/fault3r/fault3r/blob/main/vDesktop.png?raw=true" alt="MyDesktop" width="600" height="400" />
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript,html" />
