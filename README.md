@@ -15,10 +15,6 @@
 | **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**CSS** | <img src="https://github.com/fault3r/fault3r/blob/main/explore.png?raw=true" alt="explore" width="70" height="70"> |
 |:---:|:---:|
 
-<p align="left">
-  <img src="https://github.com/fault3r/fault3r/blob/main/vDesktop.png?raw=true" alt="MyDesktop" width="600" height="400" />
-</p>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript,html" />
 
 <p align="right">
