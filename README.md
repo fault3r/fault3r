@@ -2,7 +2,7 @@
 💻 **.NET ✦ C#**<br />
 ⚔️ **Visual Studio Code**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,terminal,bash&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,terminal,bash,ubuntu&theme=dark)
 <br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,dotnet,cs,visualstudio&theme=dark)
 <br />
