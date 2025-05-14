@@ -1,18 +1,20 @@
 ## Coding Zones ;0
-💻 **.NET ✦ C#**<br />
+💻 **C# ✦ .NET**<br />
 ⚔️ **Visual Studio Code**
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,vscode,visualstudio&theme=dark)
+<br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,terminal,bash,ubuntu&theme=dark)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,dotnet,cs,visualstudio&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=api,blazor,sqlserver,&theme=dark)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=dark)
-<br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,docker,postman,api,blazor&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,postman&theme=dark)
 <br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&theme=dark)
+<br />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=dark)
 
-| **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**CSS** | <img src="https://github.com/fault3r/fault3r/blob/main/explore.png?raw=true" alt="explore" width="70" height="70"> |
+| **C# ✦ .NET** <br> **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**& 🌈CSS for fun.** | <img src="https://github.com/fault3r/fault3r/blob/main/explore.png?raw=true" alt="explore" width="70" height="70"> |
 |:---:|:---:|
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript,html" />
