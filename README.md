@@ -4,15 +4,15 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,vscode,visualstudio&theme=dark)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,terminal,bash,ubuntu&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=api,docker,rabbitmq,postman&theme=dark)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=api,blazor,sqlserver,&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongodb,redis&theme=dark)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,postman&theme=dark)
-<br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=blazor,html,css&theme=dark)
 <br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=dark)
+<br />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,terminal,bash,ubuntu&theme=dark)
 
 | **C# ✦ .NET** <br> **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**& 🌈CSS for fun.** | <img src="https://github.com/fault3r/fault3r/blob/main/explore.png?raw=true" alt="explore" width="70" height="70"> |
 |:---:|:---:|
