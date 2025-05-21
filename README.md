@@ -2,17 +2,17 @@
 💻 **C# ✦ .NET**<br />
 ⚔️ **Visual Studio Code**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,vscode,visualstudio&theme=dark)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,vscode,visualstudio&theme=dark)](https://code.visualstudio.com/download)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=api,docker,rabbitmq,postman&theme=dark)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=api,docker,rabbitmq,postman&theme=dark)](https://www.c-sharpcorner.com)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongodb,redis&theme=dark)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongodb,redis&theme=dark)](https://en.wikipedia.org/wiki/Database)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=blazor,html,css&theme=dark)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=blazor,html,css&theme=dark)](https://www.w3schools.com/)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=dark)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=dark)](https://github.com/torvalds)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,terminal,bash,ubuntu&theme=dark)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,terminal,bash,ubuntu&theme=dark)](https://ubuntu.com/)
 
 | **C# ✦ .NET** <br> **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**& 🌈CSS for fun.** | <img src="https://github.com/fault3r/fault3r/blob/main/explore.png?raw=true" alt="explore" width="70" height="70"> |
 |:---:|:---:|
