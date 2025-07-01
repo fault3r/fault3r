@@ -1,4 +1,4 @@
-## Coding Zones ;0
+## Coding Zones 🚧
 💻 **C# ✦ .NET**<br />
 ⚔️ **Visual Studio Code**
 
@@ -14,7 +14,7 @@
 <br />
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,terminal,bash,ubuntu&theme=dark)](https://ubuntu.com/)
 
-| **C# ✦ .NET** <br> **Architectures ✦ DesignPatterns**<br>**Backend ✦ Microservices**<br>**Databases**<br>**& 🌈CSS for fun.** | <img src="https://github.com/fault3r/fault3r/blob/main/explore.png?raw=true" alt="explore" width="70" height="70"> |
+| C# ✦ .NET <br> DesignPatterns ✦ Architectures<br>Backend<br>Databases<br>Kernel ✦ Console<br>& 🌈 CSS | <img src="https://github.com/fault3r/fault3r/blob/main/explore.png?raw=true" alt="explore" width="70" height="70"><br>Research Area |
 |:---:|:---:|
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript,html" />
