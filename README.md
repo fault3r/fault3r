@@ -10,7 +10,7 @@
 ![linux](icons/linux.png) ![terminal](icons/terminal.png) ![bash](icons/bash.png) ![ubuntu](icons/ubuntu.png) <br />
 ![blazor](icons/blazor.png) ![html](icons/html.png) ![css](icons/css.png) <br />
 
-| C-Sharp ✦ .NET Ecosystem <br> Architectures ✦ DesignPatterns <br> Backend ✦ API <br> Kernel ✦ Console <br> Databases <br> 🟈 🌈 CSS | <img src="https://github.com/fault3r/fault3r/blob/main/explore.png?raw=true" alt="explore" width="70" height="70"><br>Research Area |
+| C-Sharp ✦ .NET Ecosystem <br> Architectures ✦ DesignPatterns <br> Backend ✦ API <br> Kernel ✦ Console <br> Databases <br> 🟈 🌈 CSS | <img src="icons/explore.png" alt="explore" width="70" height="70"> <br> Research Area |
 |:---:|:---:|
 
 <img align="center"
@@ -18,9 +18,9 @@
 
 <p align="right">
   <a href="mailto:hamed.damaavandi@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" />
+    <img src="icons/gmail.png" />
   </a>
   <a href="https://www.instagram.com/hamed.damaavandi/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark" />
+    <img src="icons/instagram.png" />
   </a>
 </p>
