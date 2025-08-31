@@ -2,6 +2,8 @@
 💻 **C# ✦ .NET**<br />
 ⚔️ **Visual Studio Code**
 
+![csharp](csharp.png)![dotnet](dotnet.png)
+
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,vscode,visualstudio&theme=dark)]()
 <br />
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,git,api,docker,postman&theme=dark)]()
