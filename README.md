@@ -9,8 +9,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 
-| <img src="skills/rest.png" alt="csharp" width="48" height="48"> | <img src="skills/ocelot.png" alt="csharp" width="48" height="48"> | <img src="skills/rabbitmq.png" alt="csharp" width="48" height="48"> | <img src="skills/grpc.png" alt="csharp" width="48" height="48"> | <img src="skills/jwt.png" alt="csharp" width="48" height="48"> | |
-
+| <img src="skills/rest.png" alt="csharp" width="48" height="48"> | <img src="skills/ocelot.png" alt="csharp" width="48" height="48"> | <img src="skills/rabbitmq.png" alt="csharp" width="48" height="48"> | <img src="skills/grpc.png" alt="csharp" width="48" height="48"> | <img src="skills/jwt.png" alt="csharp" width="48" height="48"> |
+|:---:|:---:|:---:|:---:|:---:|
 
 ![sql-server](icons/sql-server.png) ![nosql](icons/nosql.png) ![mongodb](icons/mongodb.png) ![redis](icons/redis.png) <br />
 ![git](icons/git.png) ![github](icons/github.png) <br />
