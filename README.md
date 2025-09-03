@@ -2,26 +2,10 @@
 💻 **C# ✦ .NET Core**<br />
 ⚔️ **Visual Studio Code**
 
-<img src="skills/c-sharp.png" alt="csharp" width="48" height="48">
-<img src="skills/dotnet.png" alt="csharp" width="48" height="48">
-<img src="skills/vscode.png" alt="csharp" width="48" height="48">
-<img src="skills/visual-studio.png" alt="csharp" width="48" height="48">
-<br />
-
-<img src="skills/backend.png" alt="csharp" width="48" height="48">
-<img src="skills/api.png" alt="csharp" width="48" height="48">
-<img src="skills/clean-architecture.png" alt="csharp" width="48" height="48">
-<img src="skills/microservices-architecture.png" alt="csharp" width="48" height="48">
-<img src="skills/docker.png" alt="csharp" width="48" height="48">
-<img src="skills/postman.png" alt="csharp" width="48" height="48">
-<br />
-
-<img src="skills/rest.png" alt="csharp" width="48" height="48">
-<img src="skills/ocelot.png" alt="csharp" width="48" height="48">
-<img src="skills/rabbitmq.png" alt="csharp" width="48" height="48">
-<img src="skills/grpc.png" alt="csharp" width="48" height="48">
-<img src="skills/jwt.png" alt="csharp" width="48" height="48">
-
+| <img src="skills/c-sharp.png" alt="csharp" width="48" height="48"> | <img src="skills/dotnet.png" alt="csharp" width="48" height="48"> | <img src="skills/vscode.png" alt="csharp" width="48" height="48"> | <img src="skills/visual-studio.png" alt="csharp" width="48" height="48"> | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="skills/backend.png" alt="csharp" width="48" height="48"> | <img src="skills/api.png" alt="csharp" width="48" height="48"> | <img src="skills/clean-architecture.png" alt="csharp" width="48" height="48"> | <img src="skills/microservices-architecture.png" alt="csharp" width="48" height="48"> | <img src="skills/docker.png" alt="csharp" width="48" height="48"> | <img src="skills/postman.png" alt="csharp" width="48" height="48"> |
+| <img src="skills/rest.png" alt="csharp" width="48" height="48"> | <img src="skills/ocelot.png" alt="csharp" width="48" height="48"> | <img src="skills/rabbitmq.png" alt="csharp" width="48" height="48"> | <img src="skills/grpc.png" alt="csharp" width="48" height="48"> | <img src="skills/jwt.png" alt="csharp" width="48" height="48"> | |
 
 
 ![sql-server](icons/sql-server.png) ![nosql](icons/nosql.png) ![mongodb](icons/mongodb.png) ![redis](icons/redis.png) <br />
