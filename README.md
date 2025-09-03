@@ -3,7 +3,7 @@
 ⚔️ **Visual Studio Code**
 
 ![c-sharp](icons/c-sharp.png) ![dotnet](icons/dotnet.png) ![vscode](icons/vscode.png) ![visual-studio](icons/visual-studio.png) <br />
-![backend](icons/backend.png) ![api](icons/api.png) ![clean-architecture](icons/clean-architecture.png) ![docker](icons/docker.png) ![postman](icons/postman.png) <br />
+![backend](icons/backend.png) ![api](icons/api.png) ![docker](icons/docker.png) ![postman](icons/postman.png) <br />
 ![ocelot](icons/ocelot.png) ![rabbitmq](icons/rabbitmq.png) ![mediatr](icons/mediatr.png) ![jwt](icons/jwt.png) <br />
 ![sql-server](icons/sql-server.png) ![nosql](icons/nosql.png) ![mongodb](icons/mongodb.png) ![redis](icons/redis.png) <br />
 ![git](icons/git.png) ![github](icons/github.png) <br />
