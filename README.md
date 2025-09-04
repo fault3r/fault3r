@@ -25,10 +25,11 @@
 | <img src="skills/blazor.png" alt="blazor" width="48" height="48"> | <img src="skills/html.png" alt="html" width="48" height="48"> | <img src="skills/css.png" alt="css" width="48" height="48"> |
 |:---:|:---:|:---:|
 
-| C-Sharp ✦ .NET Ecosystem <br> Architectures ✦ DesignPatterns <br> Backend ✦ API <br> Kernel ✦ Console <br> Databases <br> 🌈 CSS | <img src="icons/explore.png" alt="explore" width="70" height="70"> <br> Research Area |
+<br />
+
+| C-Sharp ✦ .NET Ecosystem <br> Architectures ✦ DesignPatterns <br> Backend ✦ API <br> Kernel ✦ Console <br> Databases <br> 🌈 CSS | <img src="skills/explore.png" alt="explore" width="70" height="70"> <br> Research Area |
 |:---:|:---:|
 
-<br />
 <img align="center"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript" />
 
