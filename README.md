@@ -38,6 +38,6 @@
     <img src="skills/gmail.png" alt="gmail" width="60" height="60" />
   </a>
   <a href="https://www.instagram.com/hamed.damaavandi/">
-    <img src="skills/instagram.png" alt="instagram" width="60" height="60 />
+    <img src="skills/instagram.png" alt="instagram" width="60" height="60" />
   </a>
 </p>
