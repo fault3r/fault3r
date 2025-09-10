@@ -22,8 +22,9 @@
   <br />
   <img src="skills/ocelot.png" alt="ocelot" width="48" height="48"> 
   <img src="skills/rabbitmq.png" alt="rabbitmq" width="48" height="48"> 
-  <img src="skills/rest.png" alt="rest" width="48" height="48">
+  <img src="skills/graphql.png" alt="graphql" width="48" height="48">
   <img src="skills/grpc.png" alt="grpc" width="48" height="48">
+  <img src="skills/rest.png" alt="rest" width="48" height="48">
   <img src="skills/jwt.png" alt="jwt" width="48" height="48">
   <br />
   <img src="skills/sql-server.png" alt="sql-server" width="48" height="48">
@@ -46,7 +47,7 @@
 
 <table border="1">
   <tr>
-    <td><b>C-Sharp ✦ .NET Ecosystem <br> Architectures ✦ DesignPatterns <br> Backend ✦ API <br> Kernel ✦ Console <br> Databases <br> 🌈 CSS</b></td>
+    <td><b>C-Sharp ✦ .NET Ecosystem <br> Software Architectures ✦ Design Patterns <br> Backend ✦ API <br> Kernel ✦ Console <br> Databases <br> 🌈 CSS</b></td>
     <td><img src="skills/explore.png" alt="explore" width="90" height="85"> <br> <b>⋄ Research Area</b></td>
   </tr>
 </table>
