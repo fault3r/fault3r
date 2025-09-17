@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=249188&height=60&section=header"/>
+
 <h2>
-  <sub><img src="profile.png" alt="dotnet" width="70" height="70"></sub>
+  <sub><img src="profile.png" alt="hamed" width="70" height="70"></sub>
   &nbsp; Hi, I'm Hamed. <br /> 
   <sub> I conduct research in the fields of Software-Architecture, <br />
   WebAPI and Application-Developement. <br />
@@ -68,4 +69,5 @@
     <img src="skills/instagram.png" alt="instagram" width="60" height="60" />
   </a>
 </div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=249188&height=70&section=footer"/>
