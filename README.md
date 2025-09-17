@@ -2,14 +2,14 @@
 
 <h2>
   <sub><img src="profile.png" alt="hamed" width="70" height="70"></sub>
-  &nbsp; Hi, I'm Hamed. <br /> 
+  &nbsp; Hi there, I'm Hamed. <br /> 
   <sub> I conduct research in the fields of Software-Architecture, <br />
   WebAPI and Application-Developement. <br />
   💻 using C#.NET;</sub> <br />
   <sub> ⚔️ using vscode; </sub> 
 </h2> 
 
-`internal class Hamed<T> : IDamavandi, IDeveloper where T : People { Task Hi👋🏼(); }`
+`internal class Hamed<T> : IDamavandi, IDeveloper where T : People { Task Hi👋🏼(T you); }`
 
 <h3>Coding Zones 🚧 </h3>
 <div align="left">
@@ -62,12 +62,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=bce0df&lines=.NET:+one+platform+to+rule+them+all.;code+is+art+that+does+something.;the+journey+is+never+ending..;talk+is+cheap,+show+me+the+code.;)](https://git.io/typing-svg)
 
 <div align="right">
-  <a href="mailto:hamed.damaavandi@gmail.com">
-    <img src="skills/gmail.png" alt="gmail" width="60" height="60" />
-  </a>
-  <a href="https://www.instagram.com/hamed.damaavandi/">
-    <img src="skills/instagram.png" alt="instagram" width="60" height="60" />
-  </a>
+  <a href="mailto:hamed.damaavandi@gmail.com"><img src="skills/gmail.png" alt="gmail" width="60" height="60" /></a>
+  <a href="https://www.instagram.com/hamed.damaavandi/"><img src="skills/instagram.png" alt="instagram" width="60" height="60" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=249188&height=70&section=footer"/>
