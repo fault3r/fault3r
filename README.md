@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=84C2C0&height=60&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=249188&height=60&section=header"/>
 <h2> 🙇🏻‍♂️ Hi, I'm Hamed. <br /> 
   <sub> I research and work on C# & .NET </sub>💻 <br />
-  <sub> vscode ⚔️</sub> 
+  <sub> using vscode; ⚔️</sub> 
 </h2> 
 
 `internal class Hamed<T> : IDamavandi, IDeveloper where T : People { Task Hi👋🏼(); }`
@@ -64,4 +64,4 @@
     <img src="skills/instagram.png" alt="instagram" width="60" height="60" />
   </a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=84C2C0&height=60&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=249188&height=70&section=footer"/>
