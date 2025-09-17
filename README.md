@@ -1,7 +1,8 @@
-<h2> 🚧 Coding Zones 🧐 </h2>
-
+<h2> 
+<h2> 🙇🏻‍♂️ Hi, this is H. Damvandi. </h2>
+<h3>Coding Zones 🚧 </h3>
 <div align="left">
-  <b>
+  <b>  
     💻 C# ✦ .NET Core <br /> 
     ⚔️ Visual Studio Code
   </b>
@@ -54,7 +55,7 @@
 <img align="center"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=bce0df&lines=CSharp+programming+language;Dotnet+Ecosystem;Software+Architectures;Design+Patterns;Visual+Studio+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=bce0df&lines=</ᴄᴏᴅᴇ>+is+Art+that+does+something.;the+journey+is+never+ending. )](https://git.io/typing-svg)
 
 <div align="right">
   <a href="mailto:hamed.damaavandi@gmail.com">
