@@ -1,5 +1,4 @@
-<h2> 
-<h2> 🙇🏻‍♂️ Hi, this is H. Damvandi. </h2>
+<h3> 🙇🏻‍♂️ internal interface Hamed&ltT&gt : IDamavandi, IDeveloper where T : People { Task Hi(); } </h3>
 <h3>Coding Zones 🚧 </h3>
 <div align="left">
   <b>  
