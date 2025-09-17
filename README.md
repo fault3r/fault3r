@@ -1,14 +1,12 @@
-<h2> 🙇🏻‍♂️ </h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=84C2C0&height=60&section=header"/>
+<h2> 🙇🏻‍♂️ Hi, I'm Hamed. <br /> 
+  <sub> I research and work on C# & .NET </sub>💻 <br />
+  <sub> vscode ⚔️</sub> 
+</h2> 
 
 `internal class Hamed<T> : IDamavandi, IDeveloper where T : People { Task Hi👋🏼(); }`
-<h3>Coding Zones 🚧 </h3>
-<div align="left">
-  <b>  
-    💻 C# ✦ .NET Core <br /> 
-    ⚔️ Visual Studio Code
-  </b>
-</div>
 
+<h3>Coding Zones 🚧 </h3>
 <div align="left">
   <img src="skills/c-sharp.png" alt="c-sharp" width="48" height="48">
   <img src="skills/dotnet.png" alt="dotnet" width="48" height="48">
@@ -66,3 +64,4 @@
     <img src="skills/instagram.png" alt="instagram" width="60" height="60" />
   </a>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=84C2C0&height=60&section=footer"/>
