@@ -1,7 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=249188&height=60&section=header"/>
-<h2> <img src="profile.png" alt="dotnet" width="70" height="70"> Hi, I'm Hamed. <br /> 
-  <sub> I research and work on C# & .NET </sub>💻 <br />
-  <sub> using vscode; ⚔️</sub> 
+<h2>
+  <sub><img src="profile.png" alt="dotnet" width="70" height="70"></sub>
+  &nbsp; Hi, I'm Hamed. <br /> 
+  <sub> I conduct research in the fields of Software-Architecture, <br />
+  WebAPI and Application-Developement. <br />
+  💻 using C#.NET;</sub> <br />
+  <sub> ⚔️ using vscode; </sub> 
 </h2> 
 
 `internal class Hamed<T> : IDamavandi, IDeveloper where T : People { Task Hi👋🏼(); }`
