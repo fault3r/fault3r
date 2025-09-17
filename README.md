@@ -54,6 +54,8 @@
 <img align="center"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=bce0df&lines=CSharp+programming+language;Dotnet+Ecosystem;Software+Architectures;Design+Patterns;Visual+Studio+Code)](https://git.io/typing-svg)
+
 <div align="right">
   <a href="mailto:hamed.damaavandi@gmail.com">
     <img src="skills/gmail.png" alt="gmail" width="60" height="60" />
