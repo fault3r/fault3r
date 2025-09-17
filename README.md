@@ -1,4 +1,4 @@
-<h3> 🙇🏻‍♂️ internal interface Hamed&ltT&gt : IDamavandi, IDeveloper where T : People { Task Hi(); } </h3>
+<h2> 🙇🏻‍♂️ internal class Hamed&lt;T&gt; : IDamavandi, IDeveloper where T : People { Task Hi(); } </h2>
 <h3>Coding Zones 🚧 </h3>
 <div align="left">
   <b>  
