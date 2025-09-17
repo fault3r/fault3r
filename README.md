@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=249188&height=60&section=header"/>
-<h2> 🙇🏻‍♂️ Hi, I'm Hamed. <br /> 
+<h2> <img src="profile.png" alt="dotnet" width="70" height="70"> Hi, I'm Hamed. <br /> 
   <sub> I research and work on C# & .NET </sub>💻 <br />
   <sub> using vscode; ⚔️</sub> 
 </h2> 
