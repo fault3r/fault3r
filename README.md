@@ -1,4 +1,6 @@
-<h2> 🙇🏻‍♂️ internal class Hamed&lt;T&gt; : IDamavandi, IDeveloper where T : People { Task Hi(); } </h2>
+<h2> 🙇🏻‍♂️ </h2>
+
+`internal class Hamed<T> : IDamavandi, IDeveloper where T : People { Task Hi👋🏼(); }`
 <h3>Coding Zones 🚧 </h3>
 <div align="left">
   <b>  
@@ -54,7 +56,7 @@
 <img align="center"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=bce0df&lines=</ᴄᴏᴅᴇ>+is+Art+that+does+something.;the+journey+is+never+ending. )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=bce0df&lines=.NET:+one+platform+to+rule+them+all.;code+is+art+that+does+something.;the+journey+is+never+ending..;talk+is+cheap,+show+me+the+code.)](https://git.io/typing-svg)
 
 <div align="right">
   <a href="mailto:hamed.damaavandi@gmail.com">
