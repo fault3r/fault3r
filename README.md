@@ -9,7 +9,7 @@
   <sub> ⚔️ using vscode; </sub> 
 </h2> 
 
-`internal class Hamed<T> : IDamavandi, IDeveloper where T : People { Task Hi👋🏼(T you); }`
+`internal class Hamed<T> : IDamavandi, IDeveloper where T : People { Task<string> Hi👋🏼(T you); }`
 
 <h3>Coding Zones 🚧 </h3>
 <div align="left">
