@@ -36,9 +36,9 @@
   <img src="skills/mongodb.png" alt="mongodb" width="48" height="48">
   <img src="skills/redis.png" alt="redis" width="48" height="48">
   <br />
+  <img src="skills/microsoft-copilot.png" alt="microsoft-copilot" width="48" height="48">
   <img src="skills/git.png" alt="git" width="48" height="48">
   <img src="skills/github.png" alt="github" width="48" height="48">
-  <img src="skills/github-copilot.png" alt="github" width="48" height="48">
   <br />
   <img src="skills/linux.png" alt="linux" width="48" height="48">
   <img src="skills/terminal.png" alt="terminal" width="48" height="48">
