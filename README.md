@@ -5,7 +5,7 @@
   &nbsp; Hi there, I'm Hamed. <br /> 
   <sub> I conduct research in the fields of Software-Architecture, <br />
   WebAPI and Application-Developement. <br />
-  💻 using C#.NET;</sub> <br />
+  💻 using C#.NET; </sub> <br />
   <sub> ⚔️ using vscode; </sub> 
 </h2> 
 
