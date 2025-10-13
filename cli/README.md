@@ -73,11 +73,3 @@
 | #!bin/bash | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash) |
 |:---:|:---:|
 | [bash](https://github.com/fault3r/clif/blob/main/tmp/doc/bash.md) | Bash operators & special-characters. |
-
-| Mongo DB | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb) |
-|:---:|:---:|
-| [mongodb](https://github.com/fault3r/clif/blob/main/tmp/doc/mongodb.md) | MongoDB methods for executing commands and queries. |
-
-| ☄️.NET CLI | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet) |
-|:---:|:---:|
-| [dotnet](https://github.com/fault3r/clif/blob/main/tmp/doc/dotnet.md) | 🧙🏻‍♂️ one platform to rule them all. |
