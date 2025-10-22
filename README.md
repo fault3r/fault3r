@@ -9,7 +9,7 @@
   <sub> ⚔️ using vscode; </sub> 
 </h2> 
 
-`public class Hamed<T> : IDamavandi, IDeveloper where T : People { Task<string> Hi👋🏼(T you); }`
+`public class Hamed<T> : IDamavandi, IDeveloper where T : People { public string Hello(T you) => $"Hi👋🏼 {you.Name}." }`
 
 <h3>Coding Zones 🚧 </h3>
 <div align="left">
