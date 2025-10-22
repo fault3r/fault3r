@@ -32,6 +32,7 @@
   <img src="skills/jwt.png" alt="jwt" width="48" height="48">
   <br />
   <img src="skills/sql-server.png" alt="sql-server" width="48" height="48">
+  <img src="skills/postgresql.png" alt="postgresql" width="48" height="48">
   <img src="skills/nosql.png" alt="nosql" width="48" height="48">
   <img src="skills/mongodb.png" alt="mongodb" width="48" height="48">
   <img src="skills/redis.png" alt="redis" width="48" height="48">
