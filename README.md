@@ -61,7 +61,7 @@
 <img align="center"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fault3r&layout=compact&theme=apprentice&hide_border=true&hide=javascript" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=bce0df&lines=.NET:+one+platform+to+rule+them+all.;code+is+art+that+does+something.;the+journey+is+never+ending..;talk+is+cheap,+show+me+the+code.;Finding+the+api+gateway+must+start+with+overriding+the+object+class.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=bce0df&lines=.NET:+one+platform+to+rule+them+all.;code+is+art+that+does+something.;the+journey+is+never+ending..;talk+is+cheap,+show+me+the+code.;Finding+the+api+gateway;must+start+with;overriding+the+object+class.;)](https://git.io/typing-svg)
 
 <div align="right">
   <a href="mailto:hamed.damaavandi@gmail.com"><img src="skills/gmail.png" alt="gmail" width="60" height="60" /></a>
