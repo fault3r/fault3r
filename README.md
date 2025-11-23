@@ -18,11 +18,11 @@
   <img src="skills/vscode.png" alt="vscode" width="48" height="48">
   <img src="skills/visual-studio.png" alt="visual-studio" width="48" height="48">
   <br />
+  <img src="skills/domain-driven-design.png" alt="domain-driven-design" width="48" height="48">
   <img src="skills/clean-architecture.png" alt="clean-architecture" width="48" height="48">
-  <img src="skills/domain-driven-design.png" alt="clean-architecture" width="48" height="48">
   <img src="skills/microservices-architecture.png" alt="microservices-architecture" width="48" height="48">
-  <img src="skills/api.png" alt="api" width="48" height="48">
   <img src="skills/backend.png" alt="backend" width="48" height="48">
+  <img src="skills/api.png" alt="api" width="48" height="48">
   <br />
   <img src="skills/docker.png" alt="docker" width="48" height="48">
   <img src="skills/ocelot.png" alt="ocelot" width="48" height="48"> 
