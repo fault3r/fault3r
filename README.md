@@ -5,7 +5,7 @@
   &nbsp; Hi there, I'm Hamed. <br /> 
   <sub> I conduct research in the fields of Software-Architecture, <br />
   WebAPI and Application-Developement. <br />
-  💻 using C#.NET; </sub> <br />
+  💻 using dotnet.csharp; </sub> <br />
   <sub> ⚔️ using vscode; </sub> 
 </h2> 
 
@@ -70,4 +70,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=249188&height=70&section=footer"/>
-
