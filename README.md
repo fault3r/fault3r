@@ -5,8 +5,8 @@
   &nbsp; Hi there, I'm Hamed. <br /> 
   <sub> I conduct research in the fields of Software-Architecture, <br />
   WebAPI and Application-Developement. <br />
-  💻 using dotnet.csharp; </sub> <br />
-  <sub> ⚔️ using vscode; </sub> 
+  💻 using Dotnet.CSharp; <br />
+  ⚔️ using vscode; </sub> 
 </h2> 
 
 `public sealed class Hamed<T> : IDamavandi, IDeveloper where T : Code`
